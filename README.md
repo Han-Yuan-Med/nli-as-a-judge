@@ -1,0 +1,4 @@
+# Natural Language Inference as a Judge: Detecting Factuality and Causality Issues in Language Model Self-Reasoning for Financial Analysis
+`data` stores the three-fold split of samples for factuality and causality detection
+- `factuality_fold_1.csv`, `factuality_fold_2.csv`, and `factuality_fold_3.csv` store the 1st, 2nd, and 3rd folds of factuality detection, respectively. The premise corresponds to the input information and the hypothesis is each reasoning statement. Label contains two types of contradiction and entailment.
+- `causality_fold_1.csv`, `causality_fold_2.csv`, and `causality_fold_3.csv` store the 1st, 2nd, and 3rd folds of causality detection, respectively. The premise is the reasoning statement and the hypothesis is the classification outcome. Label contains two types of contradiction and entailment.
