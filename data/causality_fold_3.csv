@@ -1,0 +1,600 @@
+Premise,Hypothesis,Label
+a low loan amount compared to the bank's average,the customer is Bad credit,contradiction
+a shorter loan duration than the average,the customer is Bad credit,contradiction
+a lower loan amount than the average,the customer is Bad credit,contradiction
+a lower-than-average loan amount,the customer is Bad credit,contradiction
+and a low installment rate,the customer is Bad credit,contradiction
+a low installment rate compared to the average,the customer is Bad credit,contradiction
+"Property is Real Estate, While this is not inherently bad,  it can be a sign of a larger debt burden",the customer is Bad credit,contradiction
+a loan amount below the average,the customer is Bad credit,contradiction
+a shorter loan duration than the average,the customer is Bad credit,contradiction
+a shorter loan duration than the average,the customer is Bad credit,contradiction
+a short loan duration,the customer is Bad credit,contradiction
+a low loan amount,the customer is Bad credit,contradiction
+"Additionally, their loan duration is shorter than 50% of all cases in the bank, and their installment rate in percentage of disposable income is lower than 50% of all cases in the bank",the customer is Bad credit,contradiction
+a short loan duration,the customer is Bad credit,contradiction
+a low loan amount,the customer is Bad credit,contradiction
+a low installment rate as a percentage of disposable income,the customer is Bad credit,contradiction
+a short loan duration,the customer is Bad credit,contradiction
+"Additionally, the customer's age and job status do not align with the majority of the bank's customers, indicating potential financial instability",the customer is Bad credit,contradiction
+a lower loan amount,the customer is Bad credit,contradiction
+a short loan duration,the customer is Bad credit,contradiction
+a low loan amount,the customer is Bad credit,contradiction
+a low installment rate,the customer is Bad credit,contradiction
+and a high age,the customer is Bad credit,contradiction
+"The customer also has a high number of people being liable to provide maintenance for, which could indicate financial strain",the customer is Bad credit,contradiction
+"Additionally, the customer's installment rate is lower than 50% of all cases in the bank, and they have a foreign worker status, which may indicate financial instability",the customer is Bad credit,contradiction
+and other debtors' status being none,the customer is Bad credit,contradiction
+and a low installment rate as a percentage of disposable income,the customer is Bad credit,contradiction
+a low installment rate as a percentage of disposable income,the customer is Bad credit,contradiction
+and a high number of people being liable for maintenance,the customer is Bad credit,contradiction
+"Additionally, the loan duration is longer than 50% of all cases in the bank, and the loan amount is lower than 50% of all cases, suggesting that the customer may be taking on too much debt",the customer is Bad credit,contradiction
+a short loan duration,the customer is Bad credit,contradiction
+a low loan amount,the customer is Bad credit,contradiction
+"The customer's age is also older than 50% of all cases in the bank, which could be a concern for long-term financial stability",the customer is Bad credit,contradiction
+"and a long-term employment history, which may indicate financial instability",the customer is Bad credit,contradiction
+"Additionally, the customer's installment rate is lower than 50% of all cases in the bank, and they have other installment plans with the bank, which could suggest a history of financial difficulties",the customer is Bad credit,contradiction
+"The customer's age, job status, and housing situation also raise concerns about their financial stability",the customer is Bad credit,contradiction
+a short loan duration,the customer is Bad credit,contradiction
+and a lack of other debtors,the customer is Bad credit,contradiction
+short loan duration,the customer is  bad credit,contradiction
+low installment rate,the customer is  bad credit,contradiction
+a loan duration shorter than half of all cases may imply a higher risk of default,the customer is  bad credit,contradiction
+a loan duration shorter than half of all cases may imply a higher risk of default,the customer is  bad credit,contradiction
+a low loan amount could indicate limited borrowing capacity,the customer is  bad credit,contradiction
+"Additionally, the absence of other debtors, a non-owned housing status, and a non-registered telephone further diminish the customer's creditworthiness",the customer is  bad credit,contradiction
+"Additionally, the loan duration is unusually long, and the loan amount is significantly lower than the average, which could indicate financial strain or a higher risk of default",the customer is  bad credit,contradiction
+a loan duration and amount that are below average,the customer is  bad credit,contradiction
+a low installment rate relative to disposable income,the customer is  bad credit,contradiction
+and an older age demographic,the customer is  bad credit,contradiction
+"The customer's negative checking account balance, high loan amount relative to bank averages, low savings account, short employment duration, below-average installment rate, young age, lack of other installment plans, and unregistered telephone suggest financial instability and a higher risk of default, despite owning a home and having a skilled job",the customer is  bad credit,contradiction
+below-average installment rate,the customer is  bad credit,contradiction
+a lower installment rate,the customer is  bad credit,contradiction
+"Additionally, the long loan duration and lower loan amount compared to the bank's average may indicate difficulty in repaying debts",the customer is  bad credit,contradiction
+and a status that is older than the majority of the bank's cases,the customer is  bad credit,contradiction
+The low installment rate suggests limited financial flexibility,the customer is  bad credit,contradiction
+"Lack of registered phone, This could indicate a lack of communication and potential difficulty in establishing a reliable credit history",the customer is Bad credit,entailment
+A negative checking account balance,the customer is Bad credit,entailment
+a loan amount exceeding the average,the customer is Bad credit,entailment
+a low saving account balance,the customer is Bad credit,entailment
+and a foreign worker status all point towards potential financial instability,the customer is Bad credit,entailment
+"The combination of these factors, coupled with the other debtors being a co-applicant, suggests a higher risk of defaulting on loans",the customer is Bad credit,entailment
+a negative checking account balance,the customer is Bad credit,entailment
+a long loan duration exceeding the majority of cases,the customer is Bad credit,entailment
+a high loan amount exceeding the majority of cases,the customer is Bad credit,entailment
+a low saving account balance,the customer is Bad credit,entailment
+a high installment rate exceeding the majority of cases,the customer is Bad credit,entailment
+and a history of other installment plans,the customer is Bad credit,entailment
+"Additionally, the customer is a foreign worker, which can be a significant factor in creditworthiness assessments",the customer is Bad credit,entailment
+"Low checking account balance, This suggests potential financial instability and difficulty managing cash flow",the customer is Bad credit,entailment
+"High installment rate, This indicates a significant portion of disposable income is allocated to debt payments, potentially leading to financial strain",the customer is Bad credit,entailment
+"Foreign worker status, This could raise concerns about employment stability and ability to repay loans",the customer is Bad credit,entailment
+"Lack of registered phone, This could indicate a lack of communication and potential difficulty in establishing a reliable credit history",the customer is Bad credit,entailment
+a negative checking account balance,the customer is Bad credit,entailment
+a loan amount exceeding 50% of all cases,the customer is Bad credit,entailment
+a low saving account balance,the customer is Bad credit,entailment
+"Additionally,  the foreign worker status and lack of a registered phone number raise concerns about the customer's reliability and financial stability",the customer is Bad credit,entailment
+a negative checking account balance,the customer is Bad credit,entailment
+a low saving account balance,the customer is Bad credit,entailment
+and a foreign worker status,the customer is Bad credit,entailment
+"Additionally, the low disposable income and the presence of other debtors further contribute to the negative assessment",the customer is Bad credit,entailment
+negative checking account balance,the customer is Bad credit,entailment
+low saving account balance,the customer is Bad credit,entailment
+unemployment,the customer is Bad credit,entailment
+high installment rate exceeding average,the customer is Bad credit,entailment
+and being a foreign worker,the customer is Bad credit,entailment
+low balance in both checking and savings accounts,the customer is Bad credit,entailment
+a long loan duration exceeding the average,the customer is Bad credit,entailment
+a high installment rate exceeding the average,the customer is Bad credit,entailment
+and a foreign worker status,the customer is Bad credit,entailment
+a negative checking account balance,the customer is Bad credit,entailment
+a low balance in their saving account,the customer is Bad credit,entailment
+a high installment rate exceeding the average,the customer is Bad credit,entailment
+and a history of being a foreign worker,the customer is Bad credit,entailment
+low balance in both checking and savings accounts,the customer is Bad credit,entailment
+a longer-than-average loan duration,the customer is Bad credit,entailment
+unemployment,the customer is Bad credit,entailment
+"Additionally,  the foreign worker status and the lack of a skilled job further contribute to a negative credit profile",the customer is Bad credit,entailment
+a negative checking account balance,the customer is Bad credit,entailment
+a long loan duration exceeding the average,the customer is Bad credit,entailment
+a high loan amount exceeding the average,the customer is Bad credit,entailment
+a low saving account balance,the customer is Bad credit,entailment
+a short employment history,the customer is Bad credit,entailment
+and a foreign worker status,the customer is Bad credit,entailment
+"Unemployed, This indicates a lack of stable income, a major factor in creditworthiness",the customer is Bad credit,entailment
+"High Installment Rate, A high percentage of disposable income dedicated to installments suggests potential financial strain",the customer is Bad credit,entailment
+"Foreign Worker, This could indicate a lack of established credit history in the country",the customer is Bad credit,entailment
+"Other Installment Plans,  Having multiple installment plans suggests potential financial instability",the customer is Bad credit,entailment
+"Job is Not a Skilled Employee, This suggests a lower earning potential,  further impacting creditworthiness",the customer is Bad credit,entailment
+The high loan amount and duration,the customer is Bad credit,entailment
+coupled with a low saving account balance,the customer is Bad credit,entailment
+a short employment history,the customer is Bad credit,entailment
+and a foreign worker status,the customer is Bad credit,entailment
+"Additionally, the lack of a registered phone number and the presence of other installment plans further suggest a lack of financial stability and responsibility",the customer is Bad credit,entailment
+low balance in both checking and savings accounts,the customer is Bad credit,entailment
+a long loan duration exceeding the majority of cases,the customer is Bad credit,entailment
+a high loan amount exceeding the majority of cases,the customer is Bad credit,entailment
+and a lower disposable income installment rate than the average,the customer is Bad credit,entailment
+"Additionally, the customer is a foreign worker, which can be a significant factor in creditworthiness assessments",the customer is Bad credit,entailment
+a negative checking account balance,the customer is Bad credit,entailment
+a loan duration exceeding the average,the customer is Bad credit,entailment
+and an installment rate exceeding the average,the customer is Bad credit,entailment
+"Additionally, the foreign worker status and lack of registered phone number further contribute to a negative assessment",the customer is Bad credit,entailment
+low balance in both checking and savings accounts,the customer is Bad credit,entailment
+a high installment rate exceeding 50% of disposable income,the customer is Bad credit,entailment
+and a history of other installment plans,the customer is Bad credit,entailment
+"Additionally, the foreign worker status and the low balance in accounts suggest potential financial instability",the customer is Bad credit,entailment
+low balance in both checking and savings accounts,the customer is Bad credit,entailment
+a higher loan amount than the average,the customer is Bad credit,entailment
+and a high installment rate compared to disposable income,the customer is Bad credit,entailment
+"Additionally, the foreign worker status and lack of property ownership further contribute to a negative credit profile",the customer is Bad credit,entailment
+a negative checking account balance,the customer is Bad credit,entailment
+a low saving account balance,the customer is Bad credit,entailment
+a high installment rate exceeding 50% of disposable income,the customer is Bad credit,entailment
+and a foreign worker status,the customer is Bad credit,entailment
+The customer's employment history is relatively short,the customer is Bad credit,entailment
+and the fact that they are a foreign worker may also pose additional challenges in managing finances,the customer is Bad credit,entailment
+"The customer has several red flags, including a low checking account balance",the customer is Bad credit,entailment
+"and a high installment rate as a percentage of disposable income, indicating potential financial strain",the customer is Bad credit,entailment
+"Additionally, the customer's employment history is short, and they have a high number of people relying on them for maintenance, which may indicate financial instability",the customer is Bad credit,entailment
+The customer's foreign worker status and lack of registered telephone line under their name also raise concerns about their creditworthiness,the customer is Bad credit,entailment
+"The customer's creditworthiness is classified as 'bad credit' due to the presence of several red flags, including a low balance in the checking account",the customer is Bad credit,entailment
+a low balance in the saving account,the customer is Bad credit,entailment
+a high installment rate as a percentage of disposable income,the customer is Bad credit,entailment
+and a lack of registration of the telephone under the customer's name,the customer is Bad credit,entailment
+"The customer's creditworthiness is classified as 'bad credit' due to a combination of factors, including a negative checking account balance",the customer is Bad credit,entailment
+a loan amount higher than 50% of all cases in the bank,the customer is Bad credit,entailment
+a low saving account balance,the customer is Bad credit,entailment
+"Additionally, the customer's employment status is relatively short, and they have a co-applicant for other debts, which may indicate financial instability",the customer is Bad credit,entailment
+"The customer has several red flags, including a negative checking account balance",the customer is Bad credit,entailment
+a loan duration longer than 50% of all cases in the bank,the customer is Bad credit,entailment
+a loan amount higher than 50% of all cases in the bank,the customer is Bad credit,entailment
+a low saving account balance,the customer is Bad credit,entailment
+and an installment rate in percentage of disposable income higher than 50% of all cases in the bank,the customer is Bad credit,entailment
+"Additionally, the customer's employment history is relatively short, and they have other installment plans through stores, which may indicate financial instability",the customer is Bad credit,entailment
+"The customer has a low balance in their checking account, which may indicate a lack of financial discipline or stability",the customer is Bad credit,entailment
+"However, the high balance in their saving account and the fact that they own their housing and have a job as a skilled employee or resident are positive indicators",the customer is Bad credit,entailment
+"The customer has several red flags, including a negative checking account balance",the customer is Bad credit,entailment
+a loan amount higher than 50% of all cases in the bank,the customer is Bad credit,entailment
+a low saving account balance,the customer is Bad credit,entailment
+and a telephone not registered under their name,the customer is Bad credit,entailment
+"The customer has several red flags, including a negative checking account balance",the customer is Bad credit,entailment
+a low savings account balance,the customer is Bad credit,entailment
+a relatively short employment tenure,the customer is Bad credit,entailment
+and a non-registered telephone,the customer is Bad credit,entailment
+"Additionally, the customer is a foreign worker, which may indicate financial instability",the customer is Bad credit,entailment
+"The customer has several red flags, including a negative checking account balance",the customer is Bad credit,entailment
+a low saving account balance,the customer is Bad credit,entailment
+unemployment,the customer is Bad credit,entailment
+a high installment rate,the customer is Bad credit,entailment
+and a car as their primary property,the customer is Bad credit,entailment
+"The customer has several attributes that indicate a higher risk of default, such as a low balance in the checking account",the customer is Bad credit,entailment
+a longer loan duration,the customer is Bad credit,entailment
+and a low balance in the saving account,the customer is Bad credit,entailment
+"Additionally, the installment rate is higher than 50% of all cases in the bank, which suggests that the customer may be over-extending themselves financially",the customer is Bad credit,entailment
+"The customer's employment history is also a concern, as they have been working for less than 50% of all cases in the bank, which may indicate job instability",the customer is Bad credit,entailment
+"Furthermore, the customer's financial situation is not diversified, as they have a single source of income (skilled employee or resident) and a single asset (real estate), which increases their reliance on a single income stream and asset",the customer is Bad credit,entailment
+"The customer has several red flags, including a negative checking account balance",the customer is Bad credit,entailment
+a low saving account balance,the customer is Bad credit,entailment
+a high installment rate,the customer is Bad credit,entailment
+and a non-registered telephone,the customer is Bad credit,entailment
+"Additionally, the customer is a foreign worker, which may indicate financial instability",the customer is Bad credit,entailment
+"The customer has multiple red flags, including a low balance in their checking account",the customer is Bad credit,entailment
+a long loan duration,the customer is Bad credit,entailment
+unemployment,the customer is Bad credit,entailment
+"Additionally, the customer has a building society savings agreement or life insurance, which may indicate a lack of financial flexibility",the customer is Bad credit,entailment
+"The customer has several red flags, including a negative checking account balance",the customer is Bad credit,entailment
+a loan with a duration longer than 50% of all cases in the bank,the customer is Bad credit,entailment
+a loan amount higher than 50% of all cases in the bank,the customer is Bad credit,entailment
+a low saving account balance,the customer is Bad credit,entailment
+and a shorter than 1-year employment history,the customer is Bad credit,entailment
+"The customer's creditworthiness is deemed 'bad credit' due to the presence of several red flags, including present employment being unemployed",the customer is Bad credit,entailment
+loan amount being higher than 50% of all cases in the bank,the customer is Bad credit,entailment
+"The customer has several red flags, including a low savings account balance",the customer is Bad credit,entailment
+a short employment tenure,the customer is Bad credit,entailment
+a high loan amount,the customer is Bad credit,entailment
+"Additionally, the customer's age is below the median age of the bank's customers, and they have a car as their primary property, which may indicate a higher risk of financial instability",the customer is Bad credit,entailment
+"The customer has several red flags, including a low balance in their checking account",the customer is Bad credit,entailment
+a long loan duration,the customer is Bad credit,entailment
+a high loan amount,the customer is Bad credit,entailment
+a low balance in their saving account,the customer is Bad credit,entailment
+a relatively short employment tenure,the customer is Bad credit,entailment
+"Additionally, the customer's job status is not skilled, and they are a foreign worker, which may indicate financial instability",the customer is Bad credit,entailment
+"The customer has a negative checking account balance, which indicates a lack of financial discipline and potential overspending",the customer is Bad credit,entailment
+"The high saving account balance is a positive attribute, but it is not enough to outweigh the other negative factors",the customer is Bad credit,entailment
+The customer's employment history is relatively short,the customer is Bad credit,entailment
+and the installment rate is higher than 50% of all cases,the customer is Bad credit,entailment
+"The customer's other debt status is none, but the lack of a registered telephone account and the presence of a foreign worker status raise concerns about the customer's financial stability and potential for overspending.",the customer is Bad credit,entailment
+"The customer has several attributes that indicate a higher risk of default, such as a low balance in the checking account",the customer is Bad credit,entailment
+and a low balance in the saving account,the customer is Bad credit,entailment
+"Additionally, the customer's installment rate is higher than 50% of all cases in the bank, which may indicate a higher debt burden",the customer is Bad credit,entailment
+"Furthermore, the customer's job is not a skilled employee or a resident, which may indicate a higher risk of job loss or financial instability",the customer is Bad credit,entailment
+"The customer has several red flags, including a low balance in their checking account",the customer is Bad credit,entailment
+a high loan amount,the customer is Bad credit,entailment
+a low savings account,the customer is Bad credit,entailment
+"The customer has several red flags, including a negative checking account balance",the customer is Bad credit,entailment
+a low saving account balance,the customer is Bad credit,entailment
+a high installment rate,the customer is Bad credit,entailment
+"Additionally, the customer's employment status is not verified, and they have a foreign worker status, which may indicate potential issues with their financial stability and creditworthiness",the customer is Bad credit,entailment
+high loan amount relative to others,the customer is  bad credit,entailment
+low savings,the customer is  bad credit,entailment
+young age,the customer is  bad credit,entailment
+and lack of telephone registration under their name,the customer is  bad credit,entailment
+"combined with being a foreign worker, indicate a higher risk profile and potential financial instability",the customer is  bad credit,entailment
+"The customer exhibits several red flags indicating poor financial health, including a negative checking account balance",the customer is  bad credit,entailment
+high loan amounts and durations relative to the bank's average,the customer is  bad credit,entailment
+a low savings account balance,the customer is  bad credit,entailment
+a moderate employment duration,the customer is  bad credit,entailment
+a high installment rate of disposable income,the customer is  bad credit,entailment
+and being a younger demographic with no other debtors,the customer is  bad credit,entailment
+"Additionally, the reliance on other installment plans and the status as a foreign worker may further complicate creditworthiness assessments",the customer is  bad credit,entailment
+a low checking account balance suggests limited liquidity,the customer is  bad credit,entailment
+and a high installment rate relative to disposable income indicates a heavy debt burden,the customer is  bad credit,entailment
+"Although the customer has a high savings account balance, owns real estate, and has a stable job, the combination of a high installment rate, a relatively short loan duration, and the fact that they are a foreign worker with a telephone not registered under their name suggests that they may not have a strong credit history or financial stability",the customer is  bad credit,entailment
+The customer's negative checking account balance,the customer is  bad credit,entailment
+higher loan amount relative to peers,the customer is  bad credit,entailment
+low savings,the customer is  bad credit,entailment
+and young age,the customer is  bad credit,entailment
+"combined with the lack of a registered telephone and being a foreign worker, suggest financial instability and a higher risk profile",the customer is  bad credit,entailment
+a negative checking account balance suggests financial mismanagement or potential overdrafts,the customer is  bad credit,entailment
+a low savings account balance points to insufficient financial reserves,the customer is  bad credit,entailment
+and being a younger than average age in the bank's demographic could correlate with less credit history,the customer is  bad credit,entailment
+The employment status as a skilled employee or resident does not compensate for these negative indicators,the customer is  bad credit,entailment
+"The customer exhibits several red flags indicating poor financial health, such as a negative checking account balance",the customer is  bad credit,entailment
+unemployment,the customer is  bad credit,entailment
+a high installment rate relative to disposable income,the customer is  bad credit,entailment
+and a lack of property ownership,the customer is  bad credit,entailment
+"Additionally, being a younger individual and a foreign worker without a registered telephone further suggest limited financial stability and integration, which typically correlates with lower creditworthiness",the customer is  bad credit,entailment
+The customer exhibits several risk factors such as low balances in both checking and saving accounts,the customer is  bad credit,entailment
+a high installment rate relative to disposable income,the customer is  bad credit,entailment
+and a younger age than the majority of the bank's clientele,the customer is  bad credit,entailment
+"The absence of other debtors and installment plans is a positive sign, but the combination of these attributes suggests that the customer's creditworthiness is not strong",the customer is  bad credit,entailment
+The customer's negative checking account balance,the customer is  bad credit,entailment
+low savings,the customer is  bad credit,entailment
+high installment rate relative to income,the customer is  bad credit,entailment
+and lack of property ownership,the customer is  bad credit,entailment
+"combined with being a younger individual and a foreign worker, indicate a higher risk profile and insufficient financial stability",the customer is  bad credit,entailment
+The customer exhibits several risk factors such as low balances in both checking and saving accounts,the customer is  bad credit,entailment
+unemployment,the customer is  bad credit,entailment
+"Additionally, the customer is a foreign worker, which may introduce additional complexities in credit assessment",the customer is  bad credit,entailment
+"The absence of other debtors, installment plans, and the ownership of housing are positive signs, but they are overshadowed by the numerous negative indicators that suggest a higher risk of default",the customer is  bad credit,entailment
+"The status of other debtors being none is a positive sign, but the combination of other negative attributes outweighs this, leading to the conclusion of bad credit",the customer is  bad credit,entailment
+unemployment status,the customer is  bad credit,entailment
+a high installment rate relative to disposable income,the customer is  bad credit,entailment
+"and a loan amount and duration that are above average, suggesting potential financial strain",the customer is  bad credit,entailment
+"Despite having a high balance in savings and owning real estate, the lack of skilled employment and the responsibility of maintaining others further complicate their creditworthiness",the customer is  bad credit,entailment
+"The combination of these factors, especially the high financial obligations and lack of stable income, points towards a higher risk of default",the customer is  bad credit,entailment
+The customer exhibits several risk factors such as a low savings account balance,the customer is  bad credit,entailment
+short-term employment,the customer is  bad credit,entailment
+young age,the customer is  bad credit,entailment
+"and lack of telephone registration under their name, which are indicative of potential financial instability and a higher risk of defaulting on financial obligations",the customer is  bad credit,entailment
+"Additionally, being a foreign worker may also introduce additional complexities in credit assessment due to potential legal and financial constraints",the customer is  bad credit,entailment
+The customer exhibits several risk factors such as low balances in both checking and saving accounts,the customer is  bad credit,entailment
+a longer loan duration and higher loan amount than average,the customer is  bad credit,entailment
+a younger age,the customer is  bad credit,entailment
+and being a foreign worker with a non-skilled job,the customer is  bad credit,entailment
+The customer's negative checking account balance,the customer is  bad credit,entailment
+high installment rate relative to income,the customer is  bad credit,entailment
+and status as a foreign worker with no telephone under their name suggest financial instability and a higher risk of default,the customer is  bad credit,entailment
+"Despite having a high savings account balance, the combination of these factors points towards a poor creditworthiness",the customer is  bad credit,entailment
+The customer exhibits several risk factors such as low balances in both checking and saving accounts,the customer is  bad credit,entailment
+a high installment rate relative to disposable income,the customer is  bad credit,entailment
+"Additionally, the customer is a foreign worker, which may introduce additional complexities in credit assessment",the customer is  bad credit,entailment
+The customer exhibits several risk factors such as low balances in both checking and saving accounts,the customer is  bad credit,entailment
+a loan amount higher than the median,the customer is  bad credit,entailment
+and a long employment duration which could indicate stability but also potential for complacency,the customer is  bad credit,entailment
+and the lack of property ownership and skilled employment status further increase credit risk,the customer is  bad credit,entailment
+The fact that the customer is a foreign worker may also introduce additional uncertainties,the customer is  bad credit,entailment
+The absence of other debtors and the registration of a telephone under the customer's name do not significantly mitigate these concerns,the customer is  bad credit,entailment
+The customer's negative checking account balance,the customer is  bad credit,entailment
+low savings account,the customer is  bad credit,entailment
+high installment rate relative to income,the customer is  bad credit,entailment
+and lack of telephone registration under their name are indicators of financial instability and potential inability to manage debt effectively,the customer is  bad credit,entailment
+"Additionally, being a younger individual and a foreign worker may not provide a strong credit history within the bank's existing customer base, further contributing to a lower creditworthiness assessment",the customer is  bad credit,entailment
+the loan amount being lower than 50% of all cases,the customer is Bad credit,contradiction
+"Shorter loan duration, This could indicate a lack of financial history or a high risk of default",the customer is Bad credit,contradiction
+"Additionally, the high loan amount and short loan duration, coupled with the foreign worker status, raise concerns about the customer's ability to manage debt responsibly",the customer is Bad credit,contradiction
+"Short Loan Duration, This suggests a high risk of default, as loans are often taken out for short periods",the customer is Bad credit,contradiction
+and a shorter loan duration suggests potential financial instability,the customer is Bad credit,contradiction
+and a shorter loan duration than the average suggests potential financial instability,the customer is Bad credit,contradiction
+"Additionally, the loan duration and amount, along with the high balance in the checking account and savings account, suggest potential financial instability",the customer is Bad credit,contradiction
+"Additionally, the loan duration and amount being lower than the average for the bank, combined with the foreign worker status, point towards a higher risk of default",the customer is Bad credit,contradiction
+short loan duration,the customer is Bad credit,contradiction
+low loan amount,the customer is Bad credit,contradiction
+shorter loan duration than average,the customer is Bad credit,contradiction
+lower loan amount than average,the customer is Bad credit,contradiction
+a short loan duration,the customer is Bad credit,contradiction
+a low loan amount,the customer is Bad credit,contradiction
+a relatively young age,the customer is Good credit,contradiction
+and being a foreign worker,the customer is Good credit,contradiction
+a shorter loan duration,the customer is Bad credit,contradiction
+"Additionally, the customer's employment status is relatively short-term, and their installment rate is lower than the average",the customer is Bad credit,contradiction
+"The customer also has a property, which may indicate a higher level of financial risk",the customer is Bad credit,contradiction
+a long-term loan assignment,the customer is Good credit,contradiction
+a high installment rate,the customer is Good credit,contradiction
+and is a foreign worker,the customer is Good credit,contradiction
+a low installment rate as a percentage of disposable income,the customer is Bad credit,contradiction
+and a high number of people being liable to provide maintenance for,the customer is Bad credit,contradiction
+and is a foreign worker,the customer is Good credit,contradiction
+a high installment rate in percentage of disposable income,the customer is Good credit,contradiction
+an age younger than 50% of all cases in the bank,the customer is Good credit,contradiction
+"Additionally, the customer is a foreign worker, which may indicate a higher level of financial stability",the customer is Good credit,contradiction
+"Additionally, the high installment rate, lack of other debtors, and unregistered telephone line suggest a lack of financial discipline and oversight",the customer is Bad credit,contradiction
+"The customer's age, job status, and housing situation do not provide sufficient reassurance, further contributing to the assessment of bad creditworthiness",the customer is Bad credit,contradiction
+and an installment rate that is lower than 50% of all cases in the bank,the customer is Bad credit,contradiction
+"Additionally, the customer's employment status is not a skilled employee or a resident, and they have a high number of people being liable to provide maintenance for, which may indicate financial strain",the customer is Bad credit,contradiction
+a low balance in their saving account,the customer is Good credit,contradiction
+being younger than 50% of all cases in the bank,the customer is Good credit,contradiction
+"Additionally, being a foreign worker and having a building society savings agreement or life insurance further supports their creditworthiness",the customer is Good credit,contradiction
+a young age,the customer is Good credit,contradiction
+a low checking account balance,the customer is Good credit,contradiction
+a low saving account balance,the customer is Good credit,contradiction
+a relatively young age,the customer is Good credit,contradiction
+"Additionally, the customer's job status as a skilled employee or resident and their status as a foreign worker also contribute to their good creditworthiness",the customer is Good credit,contradiction
+a high installment rate as a percentage of disposable income,the customer is Good credit,contradiction
+a long loan duration,the customer is Good credit,contradiction
+a high loan amount,the customer is Good credit,contradiction
+a high installment rate,the customer is Good credit,contradiction
+"Additionally, being a foreign worker is also considered a positive attribute",the customer is Good credit,contradiction
+a loan duration and amount that are below average,the customer is  bad credit,contradiction
+"and a short loan duration, which suggests a potential for financial instability",the customer is  bad credit,contradiction
+The lack of other installment plans and the presence of maintenance liabilities could further strain their financial situation,the customer is  bad credit,contradiction
+"The customer exhibits several risk factors such as a low savings account balance, short-term employment, high installment rate relative to income, older age, and lack of property ownership, which collectively suggest a higher likelihood of financial instability and difficulty in repaying debts, despite no existing other debts or installment plans",the customer is  bad credit,contradiction
+"The other factors, such as being a foreign worker, do not directly impact the credit assessment but may require additional scrutiny",the customer is  bad credit,contradiction
+and low installment rate relative to disposable income,the customer is  bad credit,contradiction
+"The combination of these factors, along with the absence of other debtors and installment plans, suggests a higher risk profile",the customer is  bad credit,contradiction
+a low installment rate relative to disposable income,the customer is  bad credit,contradiction
+a low installment rate,the customer is  bad credit,contradiction
+a loan amount and duration that are below average,the customer is  bad credit,contradiction
+a low installment rate of income,the customer is  bad credit,contradiction
+"Despite having a high savings account balance, long-term employment, and ownership of real estate, the customer's financial status is compromised by a low checking account balance, a loan amount and duration that are below average, and a high installment rate relative to their income",the customer is  bad credit,contradiction
+below-average installment rates,the customer is  bad credit,contradiction
+"Low savings, A low balance in the saving account suggests limited financial resources",the customer is Bad credit,entailment
+"Foreign worker, Being a foreign worker raises concerns about potential employment instability and financial history",the customer is Bad credit,entailment
+The loan duration exceeding 50% of all cases,the customer is Bad credit,entailment
+and the high installment rate exceeding 50% of all cases in the bank suggest a history of potentially risky borrowing,the customer is Bad credit,entailment
+"Additionally, the foreign worker status and lack of a registered phone number raise concerns about the customer's reliability and ability to manage financial obligations",the customer is Bad credit,entailment
+"Negative checking account balance, This suggests potential financial instability and difficulty managing finances",the customer is Bad credit,entailment
+"Lower loan amount, While not inherently bad, it suggests a lower credit limit and potential for difficulty securing larger loans",the customer is Bad credit,entailment
+"Unemployed status, This significantly impacts the customer's ability to repay loans and demonstrates a lack of financial stability",the customer is Bad credit,entailment
+"Lower installment rate,  While this is a positive sign, it's overshadowed by other factors",the customer is Bad credit,entailment
+"Foreign worker status, This can raise concerns about financial stability and ability to repay loans",the customer is Bad credit,entailment
+"Lack of property ownership, This suggests a lack of financial security and potential for difficulty securing loans",the customer is Bad credit,entailment
+"High number of dependents, This indicates a potential strain on the customer's finances and ability to manage debt",the customer is Bad credit,entailment
+The combination of a foreign worker status,the customer is Bad credit,entailment
+low savings account balance,the customer is Bad credit,entailment
+and a history of installment plans suggests potential financial instability,the customer is Bad credit,entailment
+"High Installment Rate, The high installment rate of disposable income indicates a significant financial burden, potentially exceeding their ability to repay",the customer is Bad credit,entailment
+"Low Savings Account Balance, This indicates a lack of financial stability and emergency funds",the customer is Bad credit,entailment
+"Foreign Worker Status, This raises concerns about potential employment instability and income reliability",the customer is Bad credit,entailment
+"Other Debts as Co-Applicant, This suggests a history of financial difficulties and potential for default on other loans",the customer is Bad credit,entailment
+"Lack of Registered Telephone, This could indicate a lack of communication and potential for missed payments",the customer is Bad credit,entailment
+low checking account balance,the customer is Bad credit,entailment
+long loan duration,the customer is Bad credit,entailment
+high loan amount,the customer is Bad credit,entailment
+short employment history,the customer is Bad credit,entailment
+high installment rate exceeding the average,the customer is Bad credit,entailment
+and a foreign worker status,the customer is Bad credit,entailment
+low balance in both checking and savings accounts,the customer is Bad credit,entailment
+a long loan duration exceeding 50% of the bank's cases,the customer is Bad credit,entailment
+a high loan amount exceeding 50% of the bank's cases,the customer is Bad credit,entailment
+and a foreign worker status,the customer is Bad credit,entailment
+The combination of a foreign worker status,the customer is Bad credit,entailment
+low savings balance,the customer is Bad credit,entailment
+"Additionally, the high loan amount relative to the bank's average and the lack of a registered phone number raise concerns about the customer's ability to manage financial obligations",the customer is Bad credit,entailment
+The combination of a foreign worker status,the customer is Bad credit,entailment
+a high loan amount exceeding 50% of all cases,the customer is Bad credit,entailment
+"Additionally, the lack of a stable employment history and the presence of other installment plans raise concerns about their ability to manage debt",the customer is Bad credit,entailment
+The foreign worker status and the lack of a registered telephone number raise concerns about the customer's reliability and ability to manage financial obligations,the customer is Bad credit,entailment
+The customer's employment history and installment plans also raise concerns,the customer is Bad credit,entailment
+The high loan amount and duration,the customer is Bad credit,entailment
+"coupled with a low saving account balance and a foreign worker status, suggest a high risk of default",the customer is Bad credit,entailment
+The young age and lack of a registered phone number further contribute to the negative assessment,the customer is Bad credit,entailment
+The low balance in the saving account,the customer is Bad credit,entailment
+the foreign worker status,the customer is Bad credit,entailment
+and the lack of a registered phone number all suggest potential financial instability and lack of reliable contact information,the customer is Bad credit,entailment
+low balance in both checking and savings accounts,the customer is Bad credit,entailment
+and a foreign worker status,the customer is Bad credit,entailment
+"Additionally, the low disposable income and the presence of other installment plans (banks) further contribute to the negative assessment",the customer is Bad credit,entailment
+low checking account balance,the customer is Bad credit,entailment
+high installment rate exceeding 50% of disposable income,the customer is Bad credit,entailment
+and being a foreign worker,the customer is Bad credit,entailment
+"Short employment history, Less than a year of current employment raises concerns about stability and income reliability",the customer is Bad credit,entailment
+"Low savings, A low balance in the saving account suggests limited financial resources and potential difficulty managing debt",the customer is Bad credit,entailment
+"High installment rate, A high percentage of disposable income dedicated to installments indicates a potentially unsustainable financial burden",the customer is Bad credit,entailment
+"Foreign worker status, This could indicate a lack of established credit history in the country",the customer is Bad credit,entailment
+"Young age, While not inherently bad, a young age combined with other factors suggests a higher risk of financial instability",the customer is Bad credit,entailment
+The high loan amount,the customer is Bad credit,entailment
+long loan duration,the customer is Bad credit,entailment
+and high installment rate suggest a high risk of default,the customer is Bad credit,entailment
+"Additionally, the foreign worker status and lack of a stable employment history raise further concerns",the customer is Bad credit,entailment
+The combination of a foreign worker status,the customer is Bad credit,entailment
+short employment history,the customer is Bad credit,entailment
+low savings,the customer is Bad credit,entailment
+and high installment rate suggests a higher risk of default,the customer is Bad credit,entailment
+"Additionally, the lack of a registered phone number and the presence of other installment plans (likely from banks) further contribute to a negative credit profile",the customer is Bad credit,entailment
+a high installment rate as a percentage of disposable income,the customer is Bad credit,entailment
+and a foreign worker status,the customer is Bad credit,entailment
+The customer has a high checking account balance,the customer is Good credit,entailment
+a low loan amount,the customer is Good credit,entailment
+a high saving account balance,the customer is Good credit,entailment
+long-term employment,the customer is Good credit,entailment
+no other debtors,the customer is Good credit,entailment
+a car as property,the customer is Good credit,entailment
+an age above the bank's median,the customer is Good credit,entailment
+no other installment plans,the customer is Good credit,entailment
+own housing,the customer is Good credit,entailment
+a job as a skilled employee or resident,the customer is Good credit,entailment
+"The customer has several red flags, including a negative checking account balance",the customer is Bad credit,entailment
+unemployment,the customer is Bad credit,entailment
+"Additionally, the customer's job status is not a skilled employee or a resident, and they are a foreign worker, which may indicate financial instability and a higher risk of default",the customer is Bad credit,entailment
+The customer has a high salary assignment for at least 1 year,the customer is Good credit,entailment
+a loan duration shorter than 50% of all cases in the bank,the customer is Good credit,entailment
+a loan amount lower than 50% of all cases in the bank,the customer is Good credit,entailment
+a present employment between 1 year to 4 years,the customer is Good credit,entailment
+an installment rate lower than 50% of all cases in the bank,the customer is Good credit,entailment
+no other debtors,the customer is Good credit,entailment
+a property in building society savings agreement or life insurance,the customer is Good credit,entailment
+an age older than 50% of all cases in the bank,the customer is Good credit,entailment
+no other installment plans,the customer is Good credit,entailment
+a housing status of own,the customer is Good credit,entailment
+a job as a skilled employee or a resident,the customer is Good credit,entailment
+a number of people being liable to provide maintenance for equal to or more than 1,the customer is Good credit,entailment
+"The customer is considered to have good credit due to a combination of factors, including a high salary assignment for at least 1 year",the customer is Good credit,entailment
+a loan duration shorter than 50% of all cases in the bank,the customer is Good credit,entailment
+a loan amount lower than 50% of all cases in the bank,the customer is Good credit,entailment
+a present employment duration between 1 year to 4 years,the customer is Good credit,entailment
+no other debtors,the customer is Good credit,entailment
+a property status of real estate,the customer is Good credit,entailment
+no other installment plans,the customer is Good credit,entailment
+a housing status of own,the customer is Good credit,entailment
+a job as a skilled employee or resident,the customer is Good credit,entailment
+and a number of people being liable to provide maintenance for equal to or more than 1,the customer is Good credit,entailment
+"The customer has several red flags, including a low checking account balance",the customer is Bad credit,entailment
+a longer loan duration,the customer is Bad credit,entailment
+a higher loan amount,the customer is Bad credit,entailment
+"and a shorter employment tenure, which indicate financial instability and potential risk",the customer is Bad credit,entailment
+"The customer has several red flags, including a low balance in their checking account",the customer is Bad credit,entailment
+a long loan duration,the customer is Bad credit,entailment
+a high loan amount,the customer is Bad credit,entailment
+a low balance in their saving account,the customer is Bad credit,entailment
+"The customer's foreign worker status may also be a concern, as it could indicate a lack of financial stability in their home country",the customer is Bad credit,entailment
+The customer has a good creditworthiness due to having a high balance in their checking account,the customer is Good credit,entailment
+a loan duration shorter than 50% of all cases in the bank,the customer is Good credit,entailment
+a loan amount lower than 50% of all cases in the bank,the customer is Good credit,entailment
+a stable employment history between 1-4 years,the customer is Good credit,entailment
+a low installment rate in percentage of disposable income,the customer is Good credit,entailment
+no other debtors,the customer is Good credit,entailment
+owning a car or other property,the customer is Good credit,entailment
+no other installment plans,the customer is Good credit,entailment
+owning their own housing,the customer is Good credit,entailment
+having a job as a skilled employee or resident,the customer is Good credit,entailment
+and having at least one person to provide maintenance,the customer is Good credit,entailment
+"The only potential red flag is the customer being a foreign worker, but this attribute alone does not necessarily indicate bad creditworthiness",the customer is Good credit,entailment
+"The customer has a good creditworthiness due to a combination of factors, including a high salary",the customer is Good credit,entailment
+a long-term employment history,the customer is Good credit,entailment
+a low installment rate as a percentage of disposable income,the customer is Good credit,entailment
+no other debtors,the customer is Good credit,entailment
+a stable housing situation,the customer is Good credit,entailment
+and a registered telephone line under their name,the customer is Good credit,entailment
+The customer has a high checking account balance,the customer is Good credit,entailment
+a long-term loan assignment,the customer is Good credit,entailment
+a low loan amount,the customer is Good credit,entailment
+a high saving account balance,the customer is Good credit,entailment
+a stable employment history,the customer is Good credit,entailment
+a low installment rate,the customer is Good credit,entailment
+no other debtors,the customer is Good credit,entailment
+a property ownership,the customer is Good credit,entailment
+a single household,the customer is Good credit,entailment
+"and a job as a skilled employee or resident, which indicates a responsible financial behavior and a low risk of default",the customer is Good credit,entailment
+"The customer's creditworthiness is classified as 'bad credit' due to the presence of several red flags, including a low balance in the saving account",the customer is Bad credit,entailment
+a high loan amount,the customer is Bad credit,entailment
+a short employment tenure,the customer is Bad credit,entailment
+a high installment rate,the customer is Bad credit,entailment
+and the customer being a foreign worker,the customer is Bad credit,entailment
+"The customer's creditworthiness is deemed 'bad' due to a combination of factors, including a low savings account balance",the customer is Bad credit,entailment
+a high installment rate as a percentage of disposable income,the customer is Bad credit,entailment
+"and a lack of long-term employment stability, as indicated by the customer being a foreign worker and having a non-skilled job",the customer is Bad credit,entailment
+"The customer is considered to have good credit due to a combination of factors, including a relatively short loan duration",the customer is Good credit,entailment
+a lower loan amount compared to the average,the customer is Good credit,entailment
+a stable employment history,the customer is Good credit,entailment
+a low installment rate as a percentage of disposable income,the customer is Good credit,entailment
+no other debtors,the customer is Good credit,entailment
+a property ownership status,the customer is Good credit,entailment
+and a registered telephone line under their name,the customer is Good credit,entailment
+"The customer has a good creditworthiness due to a combination of factors, including a high savings account balance",the customer is Good credit,entailment
+long-term employment,the customer is Good credit,entailment
+no other debtors,the customer is Good credit,entailment
+owning a property,the customer is Good credit,entailment
+being a skilled employee or resident,the customer is Good credit,entailment
+and having a registered telephone under their name,the customer is Good credit,entailment
+"The customer's creditworthiness is deemed 'bad credit' due to the presence of several red flags, including a low balance in the saving account",the customer is Bad credit,entailment
+a short employment tenure,the customer is Bad credit,entailment
+a high installment rate as a percentage of disposable income,the customer is Bad credit,entailment
+and a history of other debtors,the customer is Bad credit,entailment
+The customer has demonstrated a stable financial status with a high balance in their checking account,the customer is Good credit,entailment
+a long-term salary assignment,the customer is Good credit,entailment
+a high savings account balance,the customer is Good credit,entailment
+a long-term employment history,the customer is Good credit,entailment
+no other debtors,the customer is Good credit,entailment
+a property in a building society savings agreement or life insurance,the customer is Good credit,entailment
+an age above the median,the customer is Good credit,entailment
+no other installment plans,the customer is Good credit,entailment
+homeownership,the customer is Good credit,entailment
+a job as a skilled employee or resident,the customer is Good credit,entailment
+sufficient household members to provide maintenance,the customer is Good credit,entailment
+and a registered telephone under their name,the customer is Good credit,entailment
+"The customer's creditworthiness is deemed 'bad' due to a combination of factors, including a low savings account balance",the customer is Bad credit,entailment
+present employment that is shorter than 1 year,the customer is Bad credit,entailment
+a high installment rate as a percentage of disposable income,the customer is Bad credit,entailment
+and the customer being a foreign worker,the customer is Bad credit,entailment
+"The customer's high loan installment rate, which is above 50% of all cases in the bank, indicates a potential inability to manage debt effectively",the customer is  bad credit,entailment
+"Despite having a high balance in checking and savings accounts, a long employment history, and ownership of property, the excessive installment rate relative to their income suggests financial strain, leading to a lower creditworthiness assessment",the customer is  bad credit,entailment
+The customer's negative checking account balance,the customer is  bad credit,entailment
+unemployment status,the customer is  bad credit,entailment
+"combined with a lack of property ownership and a young age, indicate a high risk of default",the customer is  bad credit,entailment
+The absence of other debtors and installment plans does not compensate for the other negative indicators,the customer is  bad credit,entailment
+"Additionally, being a foreign worker may introduce further uncertainty regarding long-term residency and income stability",the customer is  bad credit,entailment
+a low savings account balance,the customer is  bad credit,entailment
+"a loan amount higher than 50% of all cases (suggesting potential over-leveraging), and a telephone not registered under their name (which could imply a lack of official documentation or transparency)",the customer is  bad credit,entailment
+"Additionally, being a foreign worker may introduce additional complexities in credit assessment",the customer is  bad credit,entailment
+a low savings account balance,the customer is  bad credit,entailment
+a high installment rate relative to disposable income,the customer is  bad credit,entailment
+a co-applicant status for other debts,the customer is  bad credit,entailment
+young age,the customer is  bad credit,entailment
+"and a non-registered telephone, which collectively suggest a higher risk of default",the customer is  bad credit,entailment
+"Additionally, being a foreign worker may introduce additional complexities in credit assessment",the customer is  bad credit,entailment
+"Despite having a high checking account balance and owning property, these positive factors are overshadowed by the negative attributes that outweigh the creditworthiness",the customer is  bad credit,entailment
+The customer exhibits several risk factors such as a low checking account balance,the customer is  bad credit,entailment
+a high loan amount and loan duration relative to the bank's average,the customer is  bad credit,entailment
+a high installment rate of disposable income,the customer is  bad credit,entailment
+a short employment duration,the customer is  bad credit,entailment
+and being a younger individual,the customer is  bad credit,entailment
+"Additionally, the lack of a registered telephone and the status of being a foreign worker may further complicate creditworthiness assessment",the customer is  bad credit,entailment
+"The high balance in the savings account and ownership of property are positive signs, but the overall profile suggests a higher risk of default",the customer is  bad credit,entailment
+The customer exhibits several risk factors such as low balances in both checking and saving accounts,the customer is  bad credit,entailment
+a loan duration and amount that are higher than average,the customer is  bad credit,entailment
+and being younger than the median age of all cases,the customer is  bad credit,entailment
+"Additionally, the customer is a foreign worker, which may impact creditworthiness due to potential unfamiliarity with local credit systems and potential legal or financial complexities",the customer is  bad credit,entailment
+"The lack of skilled employment and the fact that the customer is liable for maintenance of others also suggest financial instability, further contributing to the assessment of bad credit",the customer is  bad credit,entailment
+The customer's financial status indicates several risk factors such as a low savings account balance,the customer is  bad credit,entailment
+a relatively short employment duration,the customer is  bad credit,entailment
+"and being a younger demographic, which are all indicators of potential financial instability",the customer is  bad credit,entailment
+"Additionally, the lack of a telephone registered under the customer's name and being a foreign worker could imply difficulties in verifying identity or financial history, further compounding the credit risk",the customer is  bad credit,entailment
+"The absence of other debtors and installment plans is positive, but the combination of other negative attributes suggests a higher likelihood of bad credit",the customer is  bad credit,entailment
+"The customer's loan amount is higher than 50% of all cases in the bank, indicating a potential risk for lenders",the customer is  bad credit,entailment
+"Additionally, the customer is a foreign worker, which may complicate credit assessment due to potential legal and financial constraints",the customer is  bad credit,entailment
+The age being younger than 50% of all cases could also imply less financial stability or experience,the customer is  bad credit,entailment
+"Despite having a high balance in checking and saving accounts, and being employed for 1 to 4 years, the combination of these factors with the high loan amount and foreign status suggests a higher credit risk",the customer is  bad credit,entailment
+The customer's profile indicates several risk factors such as being a foreign worker,the customer is  bad credit,entailment
+having a telephone not registered under their name,the customer is  bad credit,entailment
+"and being younger than 50% of all cases in the bank, which suggests a lack of established credit history",the customer is  bad credit,entailment
+"Additionally, while they have a high balance in their savings account and own their housing, the presence of other liabilities and a relatively short employment duration further contribute to the assessment of bad credit",the customer is  bad credit,entailment
+The loan duration and amount being lower than the majority of cases do not compensate for the other negative indicators,the customer is  bad credit,entailment
+a low savings account balance suggests poor savings habits,the customer is  bad credit,entailment
+a loan amount and duration that are higher than average could indicate over-leveraging,the customer is  bad credit,entailment
+and a telephone not registered under the customer's name could imply a lack of official documentation or transparency,the customer is  bad credit,entailment
+"Additionally, being a foreign worker might complicate credit history verification",the customer is  bad credit,entailment
+"The combination of these factors, along with the lack of property ownership and a relatively short employment duration, points towards a higher risk of default",the customer is  bad credit,entailment
+a low savings account balance,the customer is  bad credit,entailment
+a high installment rate relative to disposable income,the customer is  bad credit,entailment
+and the fact that they are a foreign worker with a telephone not registered under their name,the customer is  bad credit,entailment
+"Additionally, the customer's age being younger than the median age of all cases in the bank suggests less financial stability",the customer is  bad credit,entailment
+"The absence of other debtors and installment plans is positive, but the combination of these factors leads to the conclusion of 'bad credit'",the customer is  bad credit,entailment
+The customer exhibits several risk factors such as low balances in both checking and saving accounts,the customer is  bad credit,entailment
+a relatively short employment history,the customer is  bad credit,entailment
+and a younger age demographic,the customer is  bad credit,entailment
+"Additionally, being a foreign worker may introduce additional complexities in credit assessment",the customer is  bad credit,entailment
+The customer exhibits several risk factors such as a low savings account balance,the customer is  bad credit,entailment
+short-term employment,the customer is  bad credit,entailment
+high installment rate relative to income,the customer is  bad credit,entailment
+"and being a younger individual, which are indicative of potential financial instability and a higher risk of defaulting on credit obligations",the customer is  bad credit,entailment
+"Additionally, being a foreign worker may introduce additional complexities in credit assessment due to potential legal and financial constraints",the customer is  bad credit,entailment
+The absence of other debtors and installment plans does not compensate for the other negative indicators,the customer is  bad credit,entailment
+"The customer's high loan amount and installment rate, which are above the median for the bank, indicate a higher risk of default",the customer is  bad credit,entailment
+"Additionally, being a foreign worker may introduce additional complexities in credit assessment, further suggesting a lower creditworthiness",the customer is  bad credit,entailment
+The customer exhibits several risk factors such as a low savings account balance,the customer is  bad credit,entailment
+short-term employment,the customer is  bad credit,entailment
+young age,the customer is  bad credit,entailment
+"and lack of telephone registration under their name, which are indicative of potential financial instability and a higher risk of defaulting on financial obligations",the customer is  bad credit,entailment
+"Additionally, being a foreign worker may also introduce additional complexities in credit assessment due to potential legal and financial constraints",the customer is  bad credit,entailment
